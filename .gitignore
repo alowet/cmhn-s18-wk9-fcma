@@ -1,0 +1,10 @@
+# Files to be ignored
+face_scene/*
+top_n_masks_all/*
+top_n_masks_subsample/*
+voxel_selection_subsample/*
+
+# Except these
+!top_n_masks_all/.gitkeep
+!top_n_masks_subsample/.gitkeep
+!voxel_selection_subsample/.gitkeep
